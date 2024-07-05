@@ -4,7 +4,7 @@ Certificados obtenidos
 
 ## 2024
 - Nest: Desarrollo backned escalable con Node. [Ver](/2024/Nest_Desarrollo%20backend%20escalable%20con%20Node.pdf)
-
+- Fundamentos de liderazgo (LinkedIn). [Ver](/2024/Fundamentos_Liderazgo_linkedin.jpeg)
 ## 2022
 - Principios SOLID y Clean Code. [Ver](2022/principios_solid.pdf)
 
