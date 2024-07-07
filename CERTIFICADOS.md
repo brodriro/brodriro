@@ -3,6 +3,7 @@ Certificados obtenidos
 
 
 ## 2024
+- Jetpack compose [Ver](/2024/jetpack_compose.pdf)
 - Nest: Desarrollo backned escalable con Node. [Ver](/2024/Nest_Desarrollo%20backend%20escalable%20con%20Node.pdf)
 - Fundamentos de liderazgo (LinkedIn). [Ver](/2024/Fundamentos_Liderazgo_linkedin.jpeg)
 

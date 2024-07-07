@@ -2,8 +2,8 @@
 
 Soy desarrollador android en [Nisum](https://www.nisum.com/es/), Chile.
 
-- 📂 [Resumen (CV)](/CV_BrianRodriguez.pdf)
-- 🗂 [Certificados](/CERTIFICADOS.md)
+- 📂 [Resume (CV)](/CV_BrianRodriguez.pdf)
+
 
 
 ### Proyectos open source
