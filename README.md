@@ -5,8 +5,8 @@ Un apasionado desarrollador android desde Trujillo, Perú.
 
 
 - 🔭 Actualmente trabajo en [Nisum](https://www.nisum.com/es/), Chile.
-- 🌱 Ahora estoy aprendiendo sobre Prompt Engineering.
-- 📄 Conoce sobre mi experiencia: [Resume (CV)](/CV_BrianRodriguez.pdf)
+- 🌱 Aprendiendo constantemente sobre Inteligencia artificial 🤖.
+- 📄 Conoce sobre mi experiencia: [Resume (CV)](/CV_BrianRodriguez.pdf).
 - 📫 Puedes escribirme a brian.rodriro@gmail.com
 
 
