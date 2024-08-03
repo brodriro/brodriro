@@ -3,6 +3,7 @@ Certificados obtenidos
 
 
 ## 2024
+- Hacking y Penetration testing de dispositivos android [Udemy](/2024/hacking_pentesting_android.pdf)
 - Herramientas de Inteligencia artificial para developers [Platzi](/2024/diploma-ia-devs.pdf)
 - Prompt Engineering con Chat GPT [Platzi](/2024/diploma-chatgpt.pdf)
 - Jetpack compose [Udemy](/2024/jetpack_compose.pdf)
