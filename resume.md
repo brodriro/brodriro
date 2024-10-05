@@ -8,7 +8,7 @@
 ---
 
 ## Perfil
-Soy un desarrollador Android comprometido con la creación de aplicaciones móviles robustas, escalables y orientadas al usuario, utilizando **Java** y **Kotlin**. Cuento con una sólida comprensión de buenas prácticas de desarrollo, patrones de diseño, y principios de arquitectura moderna. Destaco por mi capacidad para adaptarme a entornos de trabajo dinámicos y colaborar de manera eficaz con equipos multidisciplinarios, siempre manteniendo una actitud proactiva y orientada a la resolución de problemas de manera creativa.
+Desarrollador Android con experiencia en la creación de aplicaciones robustas y escalables en Java y Kotlin. Especializado en buenas prácticas, patrones de diseño y principios de arquitectura, con capacidad de adaptación en entornos dinámicos y trabajo en equipo. Proactivo, orientado a la solución de problemas.
 
 ---
 
@@ -25,7 +25,7 @@ Soy un desarrollador Android comprometido con la creación de aplicaciones móvi
 - Trabajé en estrecha colaboración con equipos multidisciplinarios para implementar soluciones móviles eficientes y alineadas con los objetivos del cliente.
 
 **Tecnologías**:  
-`Java`, `Kotlin`, `Security`, `Mockito`, `Unit Test`, `Jenkins`, `Git`, **Clean Architecture**, `CI/CD`, `Android Studio`, `Jira`, `Confluence`, `Salesforce`.
+`Java`, `Kotlin`, `Security`, `Mockito`, `Unit Test`, `Jenkins`, `Git`, **Clean Architecture**, `CI/CD`, `Android Studio`, `Jira`, `Confluence`, `Salesforce`,`SonarQube`.
 
 ### NTTDATA (2018 - 2020)
 **Center Developer • EverisYou**  
@@ -51,7 +51,7 @@ Soy un desarrollador Android comprometido con la creación de aplicaciones móvi
 - **Frameworks**:  
   `Jetpack Compose`, `Flutter`
 - **Herramientas y Tecnologías**:  
-  `Git`, `Node.js`, `SQL`, `CI/CD`, `Android Studio`, `Jira`, `Confluence`
+  `Git`, `Node.js`, `SQL`, `CI/CD`, `Android Studio`, `Jira`, `Confluence`, `GitHub`, `Firebase`
 
 ---
 
