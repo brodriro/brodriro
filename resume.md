@@ -68,6 +68,7 @@ Certificados disponibles en [CERTIFICADOS.md](CERTIFICADOS.md).
 
 | Año | Curso | Plataforma |
 |---|---|---|
+| 2026 | AI Engineer Core Track: LLM Engineering, RAG, QLoRA,Agents (33.5) | Udemy |
 | 2026 | Curso Completo de Ingeniería de Agentes de IA (25.5 h) | Udemy |
 | 2026 | AI Coder: Complete Claude Code & Coding Agents (16.5 h) | Udemy |
 | 2025 | Product Management para Mobile (15 h) | Platzi |

@@ -5,6 +5,7 @@ Certificados obtenidos
 ## 2026
 - AI Coder: Complete Claude Code & Coding Agents. [Udemy](/2026/UC-d6cf5df7-40b6-46c1-819b-2bb770ebafee.pdf)
 - Curso Completo de Ingeniería de Agentes de IA (2025). [Udemy](/2026/UC-e18a0b4c-a8ed-4b36-aad3-7a82d8bafba5.pdf)
+- AI Engineer Core Track: LLM Engineering, RAG, QLoRA,Agents [Udemy](https://www.udemy.com/certificate/UC-2742c0e8-6de2-4bfe-a527-d195f0ebd88b/)
 
 ## 2025
 - Product Management para Mobile. [Platzi](/2025/diploma-mobile-product-management.pdf)
