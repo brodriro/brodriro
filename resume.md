@@ -53,6 +53,7 @@ Desarrollador Android con más de 10 años de experiencia en desarrollo de softw
 ---
 
 ## Proyectos Open Source
+- **[okhttp-json-mock](https://central.sonatype.com/artifact/io.github.brodriro/okhttp-json-mock)** (`io.github.brodriro:okhttp-json-mock`) — Librería Kotlin para simular respuestas de OkHttp y Retrofit con archivos JSON locales. Publicada en Maven Central. [Código](https://github.com/brodriro/okhttp-json-mock)
 - **[Autenticación Mutua - Flutter](https://pub.dev/packages/http_mutual_authentication)** (`http_mutual_authentication`) — Paquete publicado en pub.dev. [Código](https://github.com/brodriro/HttpMutualAuthentication)
 - **[SQL Helper - Flutter](https://pub.dev/packages/sql_helper)** (`sql_helper`) — Paquete publicado en pub.dev. [Código](https://github.com/brodriro/FlutterSQLHelper)
 

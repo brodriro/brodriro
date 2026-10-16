@@ -23,7 +23,12 @@ Desarrollador Android desde Trujillo, Perú.
 
 ### Cosas open source
 
-Un par de paquetes de Flutter que publiqué en pub.dev:
+Lo más reciente: una librería en Kotlin para mockear OkHttp y Retrofit con archivos JSON, ya en Maven Central:
+
+[![okhttp-json-mock](https://github-readme-stats.vercel.app/api/pin/?username=brodriro&repo=okhttp-json-mock)](https://github.com/brodriro/okhttp-json-mock)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.brodriro/okhttp-json-mock)](https://central.sonatype.com/artifact/io.github.brodriro/okhttp-json-mock)
+
+Y un par de paquetes de Flutter que publiqué en pub.dev:
 
 [![HttpMutualAuthentication](https://github-readme-stats.vercel.app/api/pin/?username=brodriro&repo=HttpMutualAuthentication)](https://github.com/brodriro/HttpMutualAuthentication)
 [![SQLHelper](https://github-readme-stats.vercel.app/api/pin/?username=brodriro&repo=FlutterSQLHelper)](https://github.com/brodriro/FlutterSQLHelper)
